@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# Keep the repo lean — generated on first run of train.py.
+# Comment these out if you want the trained model + plots committed.
+models/*.pkl
